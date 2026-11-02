@@ -2,7 +2,10 @@
 ### Inteligencia de fuentes abiertas
 
 
-> Investigar con responsabilidad.   Analizar críticamente.   Verificar evidencias.   Compartir conocimiento.
+> Investigar con responsabilidad.
+> Analizar críticamente.
+> Verificar evidencias.
+> Compartir conocimiento.
 
 Bienvenido/a a mi repositorio de investigación OSINT. Reúne herramientas, lecturas, metodologías, recursos y lugares donde realizar ejercicios prácticos relacionados con la inteligencia de fuentes abiertas (OSINT).
 
