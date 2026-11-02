@@ -51,4 +51,3 @@ Este repositorio tiene fines educativos, de investigación y de seguridad defens
 ## Participación
 Se agradecen las correcciones, sugerencias de recursos y aportaciones que mejoren la calidad de la documentación.
 
-*Última revisión: noviembre de 2026.*
