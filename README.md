@@ -1,7 +1,6 @@
 # Laboratorio de Investigación OSINT
 ### Inteligencia de fuentes abiertas · Inteligencia de amenazas · Ciberseguridad
 
-![Portada del Laboratorio de Investigación OSINT](assets/portada-laboratorio-osint.png)
 
 > Investigar con responsabilidad. Analizar críticamente. Verificar evidencias. Compartir conocimiento.
 
