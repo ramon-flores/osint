@@ -1,5 +1,9 @@
 # Investigación OSINT
 
+<p align="center">
+  <img src="assets/portada-osint.png" width="900" alt="Laboratorio de Investigación OSINT">
+</p>
+
 ### Inteligencia de fuentes abiertas
 
 
