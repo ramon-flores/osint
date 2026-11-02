@@ -1,12 +1,12 @@
-# Laboratorio de Investigación OSINT
-### Inteligencia de fuentes abiertas · Inteligencia de amenazas · Ciberseguridad
+# Investigación OSINT
+### Inteligencia de fuentes abiertas
 
 
-> Investigar con responsabilidad. Analizar críticamente. Verificar evidencias. Compartir conocimiento.
+> Investigar con responsabilidad.   Analizar críticamente.   Verificar evidencias.   Compartir conocimiento.
 
-Bienvenido/a a mi laboratorio de investigación OSINT. Este repositorio reúne herramientas, lecturas, metodologías, recursos y ejercicios prácticos relacionados con la inteligencia de fuentes abiertas (OSINT) y la inteligencia de amenazas (CTI).
+Bienvenido/a a mi repositorio de investigación OSINT. Reúne herramientas, lecturas, metodologías, recursos y lugares donde realizar ejercicios prácticos relacionados con la inteligencia de fuentes abiertas (OSINT).
 
-El objetivo es documentar conocimientos, desarrollar habilidades de investigación y mostrar procedimientos reproducibles mediante fuentes públicas, datos sintéticos y entornos autorizados.
+El objetivo es documentar conocimientos, desarrollar habilidades de investigación y mostrar procedimientos reproducibles mediante fuentes públicas en entornos autorizados.
 
 ## Áreas de trabajo
 - Investigación y recopilación de información de fuentes abiertas.
